@@ -2,6 +2,16 @@
   "name": "multitransport-jsonrpc-m&m",
   "version": "0.9.5",
   "description": "JSON-RPC where performance matters",
+  "contributors": [
+    "Aiden Scandella <aiden@uber.com>",
+    "Alain Rodriguez <eagle5command@gmail.com>",
+    "Amos Barreto <amos.barreto@gmail.com>",
+    "David Ellis <d.f.ellis@ieee.org>",
+    "Hector Lugo <hector.lugo@agrosica.com>",
+    "Jeff Wolski <wolski@uber.com>",
+    "Jeremy Suurkivi <jeremy.suurkivi@uber.com>",
+    "Hiroki Horiuchi <horiuchi.g@gmail.com>"
+  ],
   "keywords": [
     "json-rpc",
     "http",
