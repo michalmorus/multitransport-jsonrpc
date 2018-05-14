@@ -1,5 +1,5 @@
 {
-  "name": "multitransport-jsonrpc-m&m",
+  "name": "@michalmorus/multitransport-jsonrpc",
   "version": "0.9.5",
   "description": "JSON-RPC where performance matters",
   "contributors": [
