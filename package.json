@@ -1,6 +1,6 @@
 {
   "name": "@michalmorus/multitransport-jsonrpc",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "JSON-RPC multitransport",
   "contributors": [
     "Aiden Scandella <aiden@uber.com>",
